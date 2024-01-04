@@ -1,1 +1,14 @@
+step 1: create project folder 
 
+step 2: open command promt and create environment using following command
+
+   1st: python -m venv . (This will create environment in current folder)
+      : cd scripts
+      : activate
+      : cd..
+   2nd: pip install scikit-learn (it will install scikit-learn in env)
+      : pip install streamlit (if you need other libraries you can install via pip)
+
+step 3: copy paste all files in project folder
+      : if you want to modify the code you can modify 
+      : open the .py file and run it without debugging
